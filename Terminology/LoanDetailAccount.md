@@ -1,0 +1,1 @@
+Accounts which aren’t CROSS_USER_ACCOUNT with majorAccountTypeCode as “CML”, “CNS” or “MTG”
